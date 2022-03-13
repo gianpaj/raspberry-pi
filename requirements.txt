@@ -5,7 +5,7 @@ charset-normalizer==2.0.4
 distlib==0.3.4
 filelock==3.4.2
 idna==3.2
-Pillow==9.0.0
+Pillow==9.0.1
 platformdirs==2.4.1
 protobuf==3.19.1
 pycodestyle==2.8.0
