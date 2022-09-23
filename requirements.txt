@@ -7,7 +7,7 @@ filelock==3.4.2
 idna==3.2
 Pillow==9.0.1
 platformdirs==2.4.1
-protobuf==3.19.1
+protobuf==3.19.5
 pycodestyle==2.8.0
 pycurl==7.44.1
 pyparsing==3.0.0b3
